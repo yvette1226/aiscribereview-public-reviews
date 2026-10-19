@@ -1,0 +1,16 @@
+{
+  "publication": "AI Scribe Review",
+  "website": "https://aiscribereview.com/",
+  "feed": "https://aiscribereview.com/feed/",
+  "reviews": [
+    {
+      "id": 8406,
+      "title": "AccurateScribe vs. Otter, Sonix, Notta, Descript and Rev: A Practical Comparison",
+      "canonical_url": "https://aiscribereview.com/accuratescribe-vs-otter-sonix-notta-descript-rev/",
+      "summary_path": "reviews/accuratescribe-vs-otter-sonix-notta-descript-rev.md",
+      "published_at_utc": "2026-10-17T11:48:14Z",
+      "source_modified_at_utc": "2026-10-17T13:43:32Z",
+      "summary": "A workflow-focused comparison of six transcription services, covering published pricing, recording and import limits, export formats, monthly cost scenarios and the scope of performance evidence."
+    }
+  ]
+}
