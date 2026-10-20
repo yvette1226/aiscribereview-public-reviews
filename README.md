@@ -1,6 +1,6 @@
 # AI Scribe Review
 
-[Visit AI Scribe Review](https://aiscribereview.com/) · [Read the latest comparison](https://aiscribereview.com/accuratescribe-vs-otter-sonix-notta-descript-rev/) · [RSS feed](https://aiscribereview.com/feed/)
+[Visit AI Scribe Review](https://aiscribereview.com/) · [Read the latest comparison](https://aiscribereview.com/accuratescribe-vs-fireflies-happy-scribe-bulk-meeting-transcription/) · [RSS feed](https://aiscribereview.com/feed/)
 
 AI Scribe Review is a software directory and publication for people choosing transcription software, AI meeting assistants, medical scribes, voice dictation, subtitle tools and speech APIs.
 
@@ -12,6 +12,7 @@ This repository collects short introductions to reviews published on [AIScribeRe
 
 | Review | Reading guide | Full article |
 | --- | --- | --- |
+| AccurateScribe vs. Fireflies vs. Happy Scribe: A 60-Hour Meeting Transcription Comparison | [Read the summary](reviews/accuratescribe-vs-fireflies-happy-scribe-bulk-meeting-transcription.md) | [Read on AIScribeReview.com](https://aiscribereview.com/accuratescribe-vs-fireflies-happy-scribe-bulk-meeting-transcription/) |
 | AccurateScribe vs. Otter, Sonix, Notta, Descript and Rev: A Practical Comparison | [Read the summary](reviews/accuratescribe-vs-otter-sonix-notta-descript-rev.md) | [Read on AIScribeReview.com](https://aiscribereview.com/accuratescribe-vs-otter-sonix-notta-descript-rev/) |
 
 ## What the comparison helps you check

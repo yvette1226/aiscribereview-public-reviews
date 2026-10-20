@@ -4,12 +4,21 @@
   "feed": "https://aiscribereview.com/feed/",
   "reviews": [
     {
+      "id": 8447,
+      "title": "AccurateScribe vs. Fireflies vs. Happy Scribe: A 60-Hour Meeting Transcription Comparison",
+      "canonical_url": "https://aiscribereview.com/accuratescribe-vs-fireflies-happy-scribe-bulk-meeting-transcription/",
+      "summary_path": "reviews/accuratescribe-vs-fireflies-happy-scribe-bulk-meeting-transcription.md",
+      "published_at_utc": "2026-10-20T08:35:49Z",
+      "source_modified_at_utc": "2026-10-20T08:35:49Z",
+      "summary": "A single-user buying comparison for 120 half-hour meeting files, separating monthly upload allowances, retained storage, file handling and export requirements across AccurateScribe, Fireflies and Happy Scribe."
+    },
+    {
       "id": 8406,
       "title": "AccurateScribe vs. Otter, Sonix, Notta, Descript and Rev: A Practical Comparison",
       "canonical_url": "https://aiscribereview.com/accuratescribe-vs-otter-sonix-notta-descript-rev/",
       "summary_path": "reviews/accuratescribe-vs-otter-sonix-notta-descript-rev.md",
       "published_at_utc": "2026-10-17T11:48:14Z",
-      "source_modified_at_utc": "2026-10-17T13:43:32Z",
+      "source_modified_at_utc": "2026-10-20T09:17:40Z",
       "summary": "A workflow-focused comparison of six transcription services, covering published pricing, recording and import limits, export formats, monthly cost scenarios and the scope of performance evidence."
     }
   ]

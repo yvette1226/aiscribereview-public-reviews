@@ -4,6 +4,8 @@
 
 Original publication: October 17, 2026. This page is a reading guide to the article.
 
+Source update: October 20, 2026. The article now also includes a five-minute English video guide covering workflow fit, recording limits, plan costs and transcription evidence. Its AI-generated illustrative visuals and synthetic narration accompany the article’s dated comparison tables and original sources.
+
 ## Start with the work you need to finish
 
 A transcription subscription can look inexpensive until recording limits, import counts or export requirements get in the way. This review compares six services through the workflows people actually need: transcribing saved recordings, capturing meetings, editing podcasts or videos, creating subtitles, and choosing between AI and human transcription.
