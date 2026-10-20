@@ -4,12 +4,21 @@
   "feed": "https://aiscribereview.com/feed/",
   "reviews": [
     {
+      "id": 9290,
+      "title": "ChatGPT Transcription Plugins Compared: AccurateScribe, Transkriptor, Otter and Fireflies",
+      "canonical_url": "https://aiscribereview.com/chatgpt-transcription-plugins-accuratescribe-transkriptor-otter-fireflies/",
+      "summary_path": "reviews/chatgpt-transcription-plugins-accuratescribe-transkriptor-otter-fireflies.md",
+      "published_at_utc": "2026-10-20T12:11:25Z",
+      "source_modified_at_utc": "2026-10-20T13:41:29Z",
+      "summary": "A documented-workflow comparison of new-file transcription widgets and existing meeting-library retrieval across AccurateScribe, Transkriptor, Otter and Fireflies, with access and output boundaries."
+    },
+    {
       "id": 8447,
       "title": "AccurateScribe vs. Fireflies vs. Happy Scribe: A 60-Hour Meeting Transcription Comparison",
       "canonical_url": "https://aiscribereview.com/accuratescribe-vs-fireflies-happy-scribe-bulk-meeting-transcription/",
       "summary_path": "reviews/accuratescribe-vs-fireflies-happy-scribe-bulk-meeting-transcription.md",
       "published_at_utc": "2026-10-20T08:35:49Z",
-      "source_modified_at_utc": "2026-10-20T08:35:49Z",
+      "source_modified_at_utc": "2026-10-20T13:41:01Z",
       "summary": "A single-user buying comparison for 120 half-hour meeting files, separating monthly upload allowances, retained storage, file handling and export requirements across AccurateScribe, Fireflies and Happy Scribe."
     },
     {

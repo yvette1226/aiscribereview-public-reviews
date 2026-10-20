@@ -4,6 +4,8 @@
 
 Original publication: October 20, 2026. This page summarizes the original review and its stated buying scenario.
 
+Source update: October 20, 2026. The article now also includes a four-minute English video guide to the 120-file buying scenario. AI-generated illustrative visuals and synthetic narration accompany the dated price calculations and labeled product imagery; the update adds no new transcription accuracy or speed test.
+
 ## The workload behind the comparison
 
 The article budgets for one person processing 120 separate English meeting recordings of 30 minutes each: 3,600 minutes, or 60 hours, within one month. It compares month-to-month software charges in USD before tax, alongside uploaded-minute allowances, retained storage, file handling and export options.
