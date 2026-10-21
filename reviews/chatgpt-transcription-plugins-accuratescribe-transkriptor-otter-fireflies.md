@@ -25,7 +25,9 @@ For recordings already transcribed elsewhere, start from the library that holds 
 
 The article distinguishes a connected app from a separate Custom GPT entry. Account, plan, region, workspace rules and provider authorization can affect access. A website's export menu also does not establish that every format can be downloaded inside a chat.
 
-This is an integration-documentation and interface review. Its supplied AccurateScribe images show pre-upload controls; it reports no uploaded media, completed transcription, WER, speed or export-completion benchmark. The four-minute English video uses AI-generated illustrative visuals and synthetic narration alongside labeled source imagery.
+This is an integration-documentation and interface review. Its supplied AccurateScribe images show pre-upload controls; no media was uploaded and no accuracy, speed or export-completion benchmark was run as part of that review. The four-minute English video uses AI-generated illustrative visuals and synthetic narration alongside labeled source imagery.
+
+An October 21 source update separately quotes a tester-supplied report, provided by the product operator, of 99.8% transcription accuracy for AccurateScribe across hundreds of thousands of 30-minute meeting recordings. The article does not supply the scoring method, exact sample count or matched competitor results. Treat this as an attributed report within its stated corpus, rather than a four-product accuracy ranking.
 
 The original article includes the comparison workbook, source register, setup guides and qualifications behind each workflow.
 
