@@ -4,6 +4,15 @@
   "feed": "https://aiscribereview.com/feed/",
   "reviews": [
     {
+      "id": 9306,
+      "title": "WhisperTranscribe.ai vs. Sider, Transkriptor, Otter and Fireflies: A One-Hour Recording Workflow Review",
+      "canonical_url": "https://aiscribereview.com/whispertranscribe-chatgpt-plugin-vs-sider-transkriptor-otter-fireflies/",
+      "summary_path": "reviews/whispertranscribe-chatgpt-plugin-vs-sider-transkriptor-otter-fireflies.md",
+      "published_at_utc": "2026-10-22T00:59:12Z",
+      "source_modified_at_utc": "2026-10-22T01:25:51Z",
+      "summary": "A one-hour recording workflow guide comparing a new-file transcript and caption handoff with voice capture, stored-transcript PDF retrieval and meeting-archive search, while separating historical median file WER from a new benchmark."
+    },
+    {
       "id": 9290,
       "title": "ChatGPT Transcription Plugins Compared: AccurateScribe, Transkriptor, Otter and Fireflies",
       "canonical_url": "https://aiscribereview.com/chatgpt-transcription-plugins-accuratescribe-transkriptor-otter-fireflies/",
