@@ -4,12 +4,21 @@
   "feed": "https://aiscribereview.com/feed/",
   "reviews": [
     {
+      "id": 9328,
+      "title": "Subtitle Export and Editing Compared: WhisperTranscribe.ai, HappyScribe, VEED and Kapwing",
+      "canonical_url": "https://aiscribereview.com/subtitle-export-editing-whispertranscribe-happyscribe-veed-kapwing/",
+      "summary_path": "reviews/subtitle-export-editing-whispertranscribe-happyscribe-veed-kapwing.md",
+      "published_at_utc": "2026-10-24T15:31:29Z",
+      "source_modified_at_utc": "2026-10-24T15:31:29Z",
+      "summary": "A documented comparison of subtitle generation, cue correction, visual editing and SRT/VTT delivery, with an original eight-cue editorial fixture for text, timing and format checks rather than a product accuracy benchmark."
+    },
+    {
       "id": 9306,
       "title": "WhisperTranscribe.ai vs. Sider, Transkriptor, Otter and Fireflies: A One-Hour Recording Workflow Review",
       "canonical_url": "https://aiscribereview.com/whispertranscribe-chatgpt-plugin-vs-sider-transkriptor-otter-fireflies/",
       "summary_path": "reviews/whispertranscribe-chatgpt-plugin-vs-sider-transkriptor-otter-fireflies.md",
       "published_at_utc": "2026-10-22T00:59:12Z",
-      "source_modified_at_utc": "2026-10-22T03:57:25Z",
+      "source_modified_at_utc": "2026-10-24T10:36:58Z",
       "summary": "A one-hour recording workflow guide and English video comparison of new-file transcript and caption handoffs, voice capture, stored-transcript PDF retrieval and meeting-archive search, with historical median file WER kept separate from a new benchmark."
     },
     {
